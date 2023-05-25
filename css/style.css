@@ -1582,6 +1582,9 @@ body.light hr.separator {
     font-size: 14px;
     line-height: 28px;
   }
+  .github{
+    font-size: 14px;
+  }
 }
 
 @media (max-width: 576px) {
@@ -1773,4 +1776,6 @@ body.light hr.separator {
   .separator.mt-1 {
     margin-top: 35px !important;
   }
+ 
 }
+
